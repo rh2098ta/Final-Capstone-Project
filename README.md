@@ -1,6 +1,6 @@
 # F1 Podium Probability — Final Capstone
 
-> **One-sentence summary:** Predict a driver’s **pre-race** chance of a **podium (top-3)** using historical F1 data (grid position and recent driver/team form). Results are shown in a single, readable Jupyter Notebook for graders and nontechnical readers.
+>Predict a driver’s **pre-race** chance of a **podium (top-3)** using historical F1 data (grid position and recent driver/team form). Results are shown in a single, readable Jupyter Notebook for graders and nontechnical readers.
 
 ---
 
